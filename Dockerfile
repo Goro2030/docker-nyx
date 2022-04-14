@@ -1,4 +1,4 @@
-FROM ubuntu:rolling
+FROM ubuntu:21.10
 
 MAINTAINER	Mariano Silva github.com/goro2030 @marianosilva
 
